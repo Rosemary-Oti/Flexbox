@@ -1,0 +1,135 @@
+.container_flex{
+    width: 600px;
+    height:fit-content;
+    background-color: rgb(219, 219, 20);
+
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    height: 300px;
+    grid-gap: 2px;
+    
+}
+
+.grid_container > h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+.grid1{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid2{
+    background-color: rgb(128, 0, 11);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid3{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid4{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid5{
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid6{
+    background-color:brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid7{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid8{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid9{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid10{
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid11{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid12{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid13{
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid14{
+    background-color:brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid15{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid16{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
