@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+import MyList from './list/MyList';
 function App() {
   return (
     <div className="App">
+      <Navbar/>
+      <MyList />
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
